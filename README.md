@@ -17,6 +17,10 @@ When adding dialogue systems to NPCs, you might run into these problems:
 
 This toolkit helps you catch and fix these issues before players see them.
 
+## Screenshots
+
+![Screenshot 001](/Screenshots/Screenshot_001.png "Screenshot 001")
+
 ## Features
 
 ### Core Tools
