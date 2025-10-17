@@ -30,7 +30,7 @@
     {
       "displayName": "Basic Debug Example",
       "description": "Simple scene demonstrating AI debug visualizer setup",
-      "path": "/Samples~/BasicDebugExample"
+      "path": "Samples~/BasicDebugExample"
     }
   ]
 }
