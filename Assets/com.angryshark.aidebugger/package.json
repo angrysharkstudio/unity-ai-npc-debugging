@@ -1,0 +1,36 @@
+{
+  "name": "com.angryshark.aidebugger",
+  "version": "1.0.0",
+  "displayName": "AI NPC Debug Toolkit",
+  "description": "Debug tools for Unity AI NPCs. Visualize responses, validate character consistency, and catch API errors for ChatGPT, Claude, and Gemini integrations.",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/angrysharkstudio/unity-ai-npc-debugging#readme",
+  "changelogUrl": "https://github.com/angrysharkstudio/unity-ai-npc-debugging/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/angrysharkstudio/unity-ai-npc-debugging/blob/main/LICENSE",
+  "dependencies": {},
+  "keywords": [
+    "ai",
+    "npc",
+    "debug",
+    "chatgpt",
+    "claude",
+    "gemini",
+    "llm",
+    "dialogue",
+    "character",
+    "tools"
+  ],
+  "author": {
+    "name": "Angry Shark Studio",
+    "email": "studio.angry.shark@gmail.com",
+    "url": "https://www.angry-shark-studio.com"
+  },
+  "samples": [
+    {
+      "displayName": "Basic Debug Example",
+      "description": "Simple scene demonstrating AI debug visualizer setup",
+      "path": "Samples~/BasicDebugExample"
+    }
+  ]
+}

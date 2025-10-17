@@ -1,0 +1,18 @@
+{
+    "name": "AngryShark.AIDebugger.Editor",
+    "rootNamespace": "AngrySharkStudio.LLM",
+    "references": [
+        "GUID:7ea3575477cffe149a38aa1a8f8c3237"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

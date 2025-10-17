@@ -7,8 +7,7 @@ namespace AngrySharkStudio.LLM.PlatformDebuggers {
 
         [Header("Base Debug Settings")]
         [SerializeField] private bool enableDebugLogging = true;
-        [SerializeField] private bool enableMetrics = true;
-
+        
         protected abstract string PlatformName { get; }
 
         // Platform-specific preprocessing
